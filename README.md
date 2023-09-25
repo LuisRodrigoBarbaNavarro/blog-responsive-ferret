@@ -1,2 +1,1 @@
-# blog-responsive-ferret
-Blog Responsivo Con Bootstrap 5
+# Proyecto Unidad II: Blog Responsive (Bootstrap 5) (Ferret World)
